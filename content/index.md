@@ -1,3 +1,0 @@
-Dei pensieri sparsi...
-
-- [[Diari/2026-06-17.md|2026-06-17]]
