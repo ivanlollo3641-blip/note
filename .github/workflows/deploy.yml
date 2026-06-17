@@ -35,7 +35,7 @@ jobs:
         run: npm ci
 
       - name: Install Quartz Plugins
-       run: npx quartz plugin install --from-config
+        run: npx quartz plugin install --from-config
 
       - name: Build Quartz
         run: npx quartz build
